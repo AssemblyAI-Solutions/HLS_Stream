@@ -1,5 +1,6 @@
 # Getting Started: HLS_Stream
 
 #### Instructions:
-- ```npm install```
-- ```node index.js```
+1. Update ```ASSEMBLYAI_KEY``` on line 1
+2. ```npm install```
+3. ```node index.js```
